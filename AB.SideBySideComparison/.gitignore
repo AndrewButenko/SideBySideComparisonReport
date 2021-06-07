@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SideBySideComparisonReport/v16/.suo
+/.vs
+/.vs/AB.SideBySideComparison
+/AB.SideBySideComparison.Plugins/bin
+/AB.SideBySideComparison.Plugins/obj
+/packages
+/WebResources/bin
+/WebResources/obj

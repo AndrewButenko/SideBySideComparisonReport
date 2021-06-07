@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AB.SideBySideComparison.Plugins", "AB.SideBySideComparison.Plugins\AB.SideBySideComparison.Plugins.csproj", "{9C3B84C2-C506-4E40-BB68-B0927A33E6C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResources", "WebResources\WebResources.csproj", "{8BA8D15C-7177-4B97-BD03-0759D6EC298B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3B84C2-C506-4E40-BB68-B0927A33E6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3B84C2-C506-4E40-BB68-B0927A33E6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3B84C2-C506-4E40-BB68-B0927A33E6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3B84C2-C506-4E40-BB68-B0927A33E6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA8D15C-7177-4B97-BD03-0759D6EC298B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA8D15C-7177-4B97-BD03-0759D6EC298B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA8D15C-7177-4B97-BD03-0759D6EC298B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA8D15C-7177-4B97-BD03-0759D6EC298B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F239BCF2-9D11-4FDB-8007-97022DE25F2B}
+	EndGlobalSection
+EndGlobal
